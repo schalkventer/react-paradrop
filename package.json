@@ -1,5 +1,5 @@
 {
-  "name": "react-scripts",
+  "name": "react-paradrop",
   "version": "2.1.8",
   "description": "A replacement for react-scripts that outputs a single self-contained JavaScript file.",
   "repository": "schalkventer/react-paradrop",
