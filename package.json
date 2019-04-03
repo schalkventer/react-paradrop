@@ -1,6 +1,6 @@
 {
-  "name": "react-paradrop",
-  "version": "2.1.8",
+  "name": "create-react-paradrop",
+  "version": "0.0.1",
   "description": "A replacement for react-scripts that outputs a single self-contained JavaScript file.",
   "repository": "schalkventer/react-paradrop",
   "license": "MIT",
