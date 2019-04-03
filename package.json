@@ -1,14 +1,14 @@
 {
   "name": "react-scripts",
   "version": "2.1.8",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "facebook/create-react-app",
+  "description": "A replacement for react-scripts that outputs a single self-contained JavaScript file.",
+  "repository": "schalkventer/react-paradrop",
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/schalkventer/react-paradrop/issues"
   },
   "files": [
     "bin",
